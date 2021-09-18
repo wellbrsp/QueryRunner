@@ -1,0 +1,1 @@
+26/08/2021 20:09:49: Não foi possível localizar o arquivo 'C:\DEV\Query_Runner\DESKTOP-KK2SSP1\Fila\Em execucao\consulta - beta - Copia (10) - Copia.sql'.

@@ -1,0 +1,22 @@
+id;nome;descricao;valor1;tipovalor1
+1;Diretorio_Arq_Em_Fila;Diretorio dos arquivos em fila de execução;Fila\;S
+2;Diretorio_Arq_Result;Diretorio do retorno das consultas;Result\;S
+3;Diretorio_Arq_SQL_Erro;Diretorio dos arquivos SQL executados com erro;DBA\SQL_Erro\;S
+4;Diretorio_Arq_SQL_OK;Diretorio dos arquivos SQL executados com sucesso;DBA\SQL_Ok\;S
+5;Diretorio_Arq_LOG;Diretorio do arquivo de Log;DBA\QueryRunner_log\;S
+7;Diretorio_Arq_Em_Execucao;Diretorio dos arquivos em execução;Fila\Em execucao\;S
+8;SQL_MAX_Registros;Numero máximo de linhas que serão retornadas na consulta;50000;N
+13;SRV_DESKTOP-KK2SSP1;Caminho absoluto do servidor - LOCALHOST;C:\DEV\QueryRunner\DESKTOP-KK2SSP1\;S
+16;SRV_SDAYSP03017;Caminho absoluto do servidor - SDAYSP03017;C:\DEV\QueryRunner\SDAYSP03017\;S
+
+id;nome;descricao;valor1;tipovalor1
+1;Diretorio_Arq_Em_Fila;Diretorio dos arquivos em fila de execução;Fila\;S
+2;Diretorio_Arq_Result;Diretorio do retorno das consultas;Result\;S
+3;Diretorio_Arq_SQL_Erro;Diretorio dos arquivos SQL executados com erro;DBA\SQL_Erro\;S
+4;Diretorio_Arq_SQL_OK;Diretorio dos arquivos SQL executados com sucesso;DBA\SQL_Ok\;S
+5;Diretorio_Arq_LOG;Diretorio do arquivo de Log;DBA\QueryRunner_log\;S
+7;Diretorio_Arq_Em_Execucao;Diretorio dos arquivos em execução;Fila\Em execucao\;S
+8;SQL_MAX_Registros;Numero máximo de linhas que serão retornadas na consulta;50000;N
+13;SRV_DESKTOP-KK2SSP1;Caminho absoluto do servidor - LOCALHOST;C:\DEV\QueryRunner\DESKTOP-KK2SSP1\;S
+16;SRV_SDAYSP03017;Caminho absoluto do servidor - SDAYSP03017;C:\DEV\QueryRunner\SDAYSP03017\;S
+

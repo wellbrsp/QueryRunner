@@ -1,0 +1,1 @@
+select * from DCV_QUERY_RUNNER..parametros
